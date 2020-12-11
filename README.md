@@ -47,7 +47,6 @@ kubectl run valdcli-linux --rm --restart=Never -ti -n myname --image=orinbou/val
 ```
 valdへの疎通を確認する
 ```
-cd valdcli-linux/
 ./valdcli -h [Service名].[Namespace名].svc.[ClusterDomain名] -p [Port番号] insert --json xyz "[0.1, 0.2, 0.3, 0.4, 0.5, 0.6]"
 inserted.
 ./valdcli -h [Service名].[Namespace名].svc.[ClusterDomain名] -p [Port番号] insert --json xyz "[0.1, 0.2, 0.3, 0.4, 0.5, 0.6]"
