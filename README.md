@@ -1,7 +1,18 @@
 # valdcli-linux-docker
-すぐvald疎通確認したい時のためにつくりました。
+すぐvald疎通確認したい時のためにつくりました。  
+本家のがちょっと使いにくそうだったので思い切って車輪を再発明しました（笑）
 
-## valdクライアントツール
+## 参考
+* vald  
+ベクトルの最近傍探索エンジン(Yahoo!)    
+https://github.com/vdaas/vald
+
+* valdクライアントツール  
+GraalVMを利用した高速起動時間のCLIツール  
+https://github.com/vdaas/vald-client-clj#valdcli
+
+* valdクライアントツール  
+イメージに内包したネイティブバイナリ  
 https://github.com/vdaas/vald-client-clj/releases/tag/v0.0.45.Rev1
 
 ## Dockerイメージをビルドする
