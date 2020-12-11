@@ -4,7 +4,7 @@
 
 ## 参考
 * vald  
-ベクトルの最近傍探索エンジン(Yahoo!)    
+分散密ベクトル探索エンジン(Yahoo!)  
 https://github.com/vdaas/vald
 
 * valdクライアントツール  
