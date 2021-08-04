@@ -13,7 +13,7 @@ https://github.com/vdaas/vald-client-clj#valdcli
 
 * valdクライアントツール  
 イメージに内包したネイティブバイナリ  
-https://github.com/vdaas/vald-client-clj/releases/tag/v0.0.45.Rev1
+https://github.com/vdaas/vald-client-clj/releases/tag/v1.0.1
 
 ## Dockerイメージをビルドする
 イメージ構築
